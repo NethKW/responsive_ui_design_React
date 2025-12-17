@@ -1,0 +1,72 @@
+.asg-2.main{
+    background-color: #ededed;
+    text-align: center;
+    font-size: 28px;
+}
+
+.blue-section{
+    background-color: #5574e2;
+    height: 60px;
+    text-align: center;
+}
+.header{
+    background-color: rgb(52, 200, 233);
+    height: 140px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.feature-section{
+    height: 200px;
+    display: flex;
+    flex-direction: row;
+    
+    
+}
+
+.main-feature{
+    background-color:rgb(206, 141, 55);
+    width: 35%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.sub-feature{
+    display: flex;
+    flex-direction: row;
+    width: 65%;
+}
+
+.feature-1{
+    background-color: rgb(183, 134, 229);
+    width: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.feature-2{
+    background-color: rgb(243, 101, 177);
+    width: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.sign-up{
+    background-color: aquamarine;
+    height: 110px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.content{
+    background-color: rgb(218, 219, 219);
+    height: 200px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
