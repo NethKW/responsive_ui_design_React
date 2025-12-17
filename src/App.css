@@ -17,7 +17,7 @@ p {
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  background-color: #b1b3ae;
+  background: linear-gradient(to right top, #d29ff2, #b98fcc, #9f80a8, #847186, #676367);;
   color: #0e110d;
 }
 
@@ -31,7 +31,7 @@ p {
 .alink {
   text-decoration: none;
   color: rgb(0, 0, 0);
-  background-color: #485645;
+  background-color: #504e5187;
   padding: 10px 20px;
   border-radius: 8px;
   transition: 0.3s;
@@ -40,5 +40,5 @@ p {
 }
 
 .alink:hover {
-  background-color: #5A7863;
+  background-color: #755a78;
 }
