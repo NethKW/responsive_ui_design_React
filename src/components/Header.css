@@ -36,4 +36,18 @@
   .menu-icon {
     display: block;
   }
+
+  .header-left{
+    font-size: 20px;
+  }
+}
+
+@media (max-width: 1024px) {
+    .header-left{
+    font-size: 20px;
+  }
+
+  .header-right a{
+    font-size: 18px;
+  }
 }
