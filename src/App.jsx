@@ -1,12 +1,14 @@
-import Home from "./pages/Home";
-import { Routes, Route } from "react-router-dom";
+import React from "react";
+import { Link } from "react-router-dom";
+import "./App.css";
 
-function App() {
+export default function App() {
   return (
-    <Routes>
-      <Route path="/" element={<Home />} />
-    </Routes>
+    <div className="app">
+      <h1>Responsive UI Assignments</h1>
+      <div className="links">
+        <Link to="/ASG-01" className="alink">Assignment 1</Link>
+      </div>
+    </div>
   );
 }
-
-export default App;
