@@ -118,7 +118,7 @@
 }
 
 /*mobile(768px and down)*/
-@media (max-width: 768px) {
+@media (max-width: 600px) {
     .asg-2.main {
         font-size: 18px;
     }
