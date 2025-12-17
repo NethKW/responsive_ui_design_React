@@ -6,7 +6,7 @@ function Assignment_2() {
             <div className='blue-section'></div>
             <div className='header'>HEADER</div>
             <div className='feature-section'>
-                <div className='main-feature'> FEATURE</div>
+                <div className='main-feature'>FEATURE</div>
                 <div className='sub-feature'>
                     <div className='feature-1'>FEATURE</div>
                     <div className='feature-2'>FEATURE</div>
